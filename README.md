@@ -1,5 +1,9 @@
 # Flutter Food Delivery Application UI Kit - Foody
 
+> **🛒 How to Purchase**
+>
+> To get the full version of this UI kit with all features and screens, visit the [Foody UI Kit product page](https://afgprogrammer.com/flutter/foody-ui-kit) and follow the purchase instructions. After purchase, you'll receive access to the complete source code and future updates.
+
 ![Flutter Food Delivery Application UI Kit](assets/screenshots/flutter-foody-ui-kit.png)
 
 A complete Flutter UI kit for a food delivery application, showcasing various screens and features. This project is designed to help developers quickly build a food delivery app using Flutter.
@@ -39,9 +43,9 @@ To purchase the full version of this UI kit, please visit [Foody UI Kit](https:/
 
  | Page | Page
 |---|---|
-| <img src="assets/screenshots/flutter-foody-home-screen.png" width="400px" /> | <img src="assets/screenshots/flutter-foody-food-screen.png" width="400px" /> |
-| <img src="assets/screenshots/flutter-foody-search-screen.png" width="400px" /> | <img src="assets/screenshots/flutter-foody-order-success.png" width="400px" /> |
-| <img src="assets/screenshots/flutter-foody-checkout-screen.png" width="400px" /> |
+| <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-home-screen.png" width="400px" /> | <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-food-screen.png" width="400px" /> |
+| <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-search-screen.png" width="400px" /> | <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-order-success.png" width="400px" /> |
+| <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-checkout-screen.png" width="400px" /> |
 
 
 ## Live Demo
